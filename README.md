@@ -37,7 +37,7 @@ The project is a demonstration of **state management**, **responsive UI design**
 1. Clone this repository using the command: <br>  
 
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-game.git
+   git clone https://github.com/NerandaDilhara/tic-tac-toe-game.git
    
 
 2. Navigate to the project directory: <br>  
