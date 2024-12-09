@@ -1,5 +1,8 @@
 # Tic-Tac-Toe Game - ReactJS <br>  
 
+![toe](https://github.com/user-attachments/assets/57aba46e-25b6-42b8-bb86-e29da3fed135)
+
+
 ## **Description** <br>  
 A dynamic and interactive Tic-Tac-Toe game built using **React.js** with a sleek **dark-themed interface** and enhanced animations. This game allows players to relive the classic Tic-Tac-Toe experience in a modern and engaging way. The winner of the game is displayed in a dynamic popup box with animations, adding a fun and celebratory element. <br>  
 
